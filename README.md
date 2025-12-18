@@ -1,4 +1,4 @@
-# Hi there, I'm Jakub! 👋
+# Hi there, I'm Kuba! 👋
 
 **MSc Automation & Robotics Engineer**
 *Building intelligent systems with Python, C++, and Machine Learning.*
