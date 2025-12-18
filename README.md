@@ -33,6 +33,6 @@ I am an engineer bridging the gap between **Automation** and **Software**. I spe
 ---
 
 ### 📫 Let's Connect
-<a href="TWOJ_LINK_DO_LINKEDIN">
+<a href="https://www.linkedin.com/in/jakub-czupik/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
 </a>
