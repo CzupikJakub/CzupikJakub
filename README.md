@@ -34,14 +34,6 @@ I am an engineer bridging the gap between **Automation** and **Software**. I spe
 
 ---
 
-### 📈 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=KubaCzupik&show_icons=true&theme=radical&hide_border=true" alt="Kuba's Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KubaCzupik&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
----
-
 ### 📬 Connect
 <a href="https://www.linkedin.com/in/jakub-czupik/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
